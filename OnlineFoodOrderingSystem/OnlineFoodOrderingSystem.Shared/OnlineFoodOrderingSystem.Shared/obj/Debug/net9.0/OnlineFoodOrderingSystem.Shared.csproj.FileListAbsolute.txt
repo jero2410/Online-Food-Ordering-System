@@ -1,0 +1,12 @@
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.Shared\bin\Debug\net9.0\OnlineFoodOrderingSystem.Shared.deps.json
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.Shared\bin\Debug\net9.0\OnlineFoodOrderingSystem.Shared.dll
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.Shared\bin\Debug\net9.0\OnlineFoodOrderingSystem.Shared.pdb
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.Shared\obj\Debug\net9.0\OnlineFoodOrderingSystem.Shared.csproj.AssemblyReference.cache
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.Shared\obj\Debug\net9.0\OnlineFoodOrderingSystem.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.Shared\obj\Debug\net9.0\OnlineFoodOrderingSystem.Shared.AssemblyInfoInputs.cache
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.Shared\obj\Debug\net9.0\OnlineFoodOrderingSystem.Shared.AssemblyInfo.cs
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.Shared\obj\Debug\net9.0\OnlineFoodOrderingSystem.Shared.csproj.CoreCompileInputs.cache
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.Shared\obj\Debug\net9.0\OnlineFoodOrderingSystem.Shared.dll
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.Shared\obj\Debug\net9.0\refint\OnlineFoodOrderingSystem.Shared.dll
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.Shared\obj\Debug\net9.0\OnlineFoodOrderingSystem.Shared.pdb
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.Shared\obj\Debug\net9.0\ref\OnlineFoodOrderingSystem.Shared.dll

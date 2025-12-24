@@ -1,0 +1,17 @@
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.DAL\bin\Debug\net9.0\OnlineFoodOrderingSystem.DAL.deps.json
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.DAL\bin\Debug\net9.0\OnlineFoodOrderingSystem.DAL.runtimeconfig.json
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.DAL\bin\Debug\net9.0\OnlineFoodOrderingSystem.DAL.dll
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.DAL\bin\Debug\net9.0\OnlineFoodOrderingSystem.DAL.pdb
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.DAL\bin\Debug\net9.0\OnlineFoodOrderingSystem.Shared.dll
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.DAL\bin\Debug\net9.0\OnlineFoodOrderingSystem.Shared.pdb
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.DAL\obj\Debug\net9.0\OnlineFoodOrderingSystem.DAL.csproj.AssemblyReference.cache
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.DAL\obj\Debug\net9.0\OnlineFoodOrderingSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.DAL\obj\Debug\net9.0\OnlineFoodOrderingSystem.DAL.AssemblyInfoInputs.cache
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.DAL\obj\Debug\net9.0\OnlineFoodOrderingSystem.DAL.AssemblyInfo.cs
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.DAL\obj\Debug\net9.0\OnlineFoodOrderingSystem.DAL.csproj.CoreCompileInputs.cache
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.DAL\obj\Debug\net9.0\OnlineFo.A5DA371C.Up2Date
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.DAL\obj\Debug\net9.0\OnlineFoodOrderingSystem.DAL.dll
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.DAL\obj\Debug\net9.0\refint\OnlineFoodOrderingSystem.DAL.dll
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.DAL\obj\Debug\net9.0\OnlineFoodOrderingSystem.DAL.pdb
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.DAL\obj\Debug\net9.0\OnlineFoodOrderingSystem.DAL.genruntimeconfig.cache
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.DAL\obj\Debug\net9.0\ref\OnlineFoodOrderingSystem.DAL.dll

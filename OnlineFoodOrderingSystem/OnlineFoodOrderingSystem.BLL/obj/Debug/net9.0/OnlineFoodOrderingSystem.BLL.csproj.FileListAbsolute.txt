@@ -1,0 +1,17 @@
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.BLL\bin\Debug\net9.0\OnlineFoodOrderingSystem.BLL.deps.json
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.BLL\bin\Debug\net9.0\OnlineFoodOrderingSystem.BLL.dll
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.BLL\bin\Debug\net9.0\OnlineFoodOrderingSystem.BLL.pdb
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.BLL\bin\Debug\net9.0\OnlineFoodOrderingSystem.DAL.dll
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.BLL\bin\Debug\net9.0\OnlineFoodOrderingSystem.Shared.dll
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.BLL\bin\Debug\net9.0\OnlineFoodOrderingSystem.DAL.pdb
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.BLL\bin\Debug\net9.0\OnlineFoodOrderingSystem.Shared.pdb
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.BLL\obj\Debug\net9.0\OnlineFoodOrderingSystem.BLL.csproj.AssemblyReference.cache
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.BLL\obj\Debug\net9.0\OnlineFoodOrderingSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.BLL\obj\Debug\net9.0\OnlineFoodOrderingSystem.BLL.AssemblyInfoInputs.cache
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.BLL\obj\Debug\net9.0\OnlineFoodOrderingSystem.BLL.AssemblyInfo.cs
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.BLL\obj\Debug\net9.0\OnlineFoodOrderingSystem.BLL.csproj.CoreCompileInputs.cache
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.BLL\obj\Debug\net9.0\OnlineFo.308DBE41.Up2Date
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.BLL\obj\Debug\net9.0\OnlineFoodOrderingSystem.BLL.dll
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.BLL\obj\Debug\net9.0\refint\OnlineFoodOrderingSystem.BLL.dll
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.BLL\obj\Debug\net9.0\OnlineFoodOrderingSystem.BLL.pdb
+D:\Jerome\Depi\Technical\Project\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem.BLL\obj\Debug\net9.0\ref\OnlineFoodOrderingSystem.BLL.dll
